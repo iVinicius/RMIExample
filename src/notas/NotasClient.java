@@ -21,6 +21,7 @@ public class NotasClient {
 		} catch (Exception e) {
 			System.out.println ("NotasClient failed.");
 			e.printStackTrace();
+			//cra
 		}
 	}
 }
